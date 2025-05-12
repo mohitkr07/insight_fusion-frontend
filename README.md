@@ -24,7 +24,7 @@ It provides a modern, real-time chat interface that streams and displays respons
 
 ## Screenshots
 
-![Chat Home](./ss1-front.png)  ![Multi-Agent Response](./ss2-front.png)  ![Responsive Layout](./ss3-right.png) | ![Responsive Layout](./ss4-portrait.png) | ![Responsive Layout](./ss5-portrait.png) |
+![Chat Home](./public/ss1-front.png)  ![Multi-Agent Response](./public/ss2-front.png)  ![Responsive Layout](./public/ss3-right.png) | ![Responsive Layout](./public/ss4-portrait.png) | ![Responsive Layout](./public/ss5-portrait.png) 
 ---
 
 ## Project Structure
