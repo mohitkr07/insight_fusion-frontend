@@ -25,13 +25,13 @@ It provides a modern, real-time chat interface that streams and displays respons
 ## Screenshots
 
 <p align="center">
-  <img src="./public/ss1-front.png" alt="Chat Home" width="200" style="margin: 10px;">
-  <img src="./public/ss2-front.png" alt="Multi-Agent Response" width="200" style="margin: 10px;">
-  <img src="./public/ss3-right.png" alt="Responsive Layout" width="200" style="margin: 10px;">
+  <img src="./public/ss1-front.png" alt="Chat Home" width="300" style="margin: 10px;">
+  <img src="./public/ss2-front.png" alt="Multi-Agent Response" width="300" style="margin: 10px;">
+  <img src="./public/ss3-right.png" alt="Responsive Layout" width="300" style="margin: 10px;">
 </p>
 <p align="center">
-  <img src="./public/ss4-portrait.png" alt="Responsive Layout" width="150" style="margin: 10px;">
-  <img src="./public/ss5-portrait.png" alt="Responsive Layout" width="150" style="margin: 10px;">
+  <img src="./public/ss4-portrait.png" alt="Responsive Layout" width="200" style="margin: 10px;">
+  <img src="./public/ss5-portrait.png" alt="Responsive Layout" width="200" style="margin: 10px;">
 </p>
 
 ---
